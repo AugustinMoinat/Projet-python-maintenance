@@ -9,3 +9,11 @@ PdM_telemetry.csv
 .ipynb_checkpoints/PdM_failures-checkpoint.csv
 .ipynb_checkpoints/PdM_machines-checkpoint.csv
 .ipynb_checkpoints/PdM_maint-checkpoint.csv
+data/raw/.ipynb_checkpoints/PdM_errors-checkpoint.csv
+data/raw/.ipynb_checkpoints/PdM_failures-checkpoint.csv
+data/raw/.ipynb_checkpoints/PdM_machines-checkpoint.csv
+data/raw/.ipynb_checkpoints/PdM_maint-checkpoint.csv
+data/raw/.ipynb_checkpoints/PdM_telemetry-checkpoint.csv
+notebooks/.ipynb_checkpoints/2.0-sc-data-exploration-telemetry-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/data_prep_errors-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/first_explo no telemetry-checkpoint.ipynb
